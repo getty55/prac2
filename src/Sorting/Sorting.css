@@ -1,0 +1,9 @@
+.array-container {
+  margin: 50px;
+}
+
+.array-bar {
+  width: 30px;
+  display: inline-block;
+  margin: 0 5px;
+}
